@@ -2,6 +2,18 @@
 
 Development Steps
 
+1. Gather references
+
+    [Link](http://www.dalton.ax/gpib/)
+
+    [Link](https://www.electronics-notes.com/articles/test-methods/gpib-ieee-488-bus/what-is-gpib-ieee488.php)
+
+    [Link](https://bitsavers.org/pdf/hp/hpib/TutorialDescrOfHPIB.pdf)
+
+    [Link](https://community.fortunecity.ws/skyscraper/solaris/1735/electronics/gpibfaq/gpibfaq.html)
+    
+    [Link](https://github.com/Galvant)
+
 1. Create Functional diagram
 2. Create Software stack diagram
 3. Create Software diagram 
