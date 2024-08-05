@@ -1,4 +1,26 @@
-# UsbGpib
+# OpenGPIB
+
+Development Steps
+
+1. Create Functional diagram
+2. Create Software stack diagram
+3. Create Software diagram 
+4. Define the scope of this work (what are our objectives? for USB version and for other versions?)
+5. Develop the Schematic
+6. Develop the Layout
+7. Fabricate the PCB
+8. Test the PCB
+
+
+
+
+
+
+
+
+
+# Legacy
+
 Versatile, cheap, portable and robust USB to GPIB converter (USBTMC class based).
 
 You'll find many projects like this, but this one is special (ok, everybody will claim this) :-)
